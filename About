@@ -1,1 +1,4 @@
 People who require wheelchairs always have a risk to fall off the wheelchair or falling into the wheelchair and are unable to help themselves. And it is not possible that they always have people around them to help them. So with this project people with special needs can call for help when they are alone.
+An IOT device that detects the movement and acceleration of the wheelchair with the help of an MPU6050 accelerometer and gyroscope sensor using NodeMCU ESP8266 as a main controller.
+In this project, we are using NodeMCU ESP8266 as a main controller. Accelerometer MPU6050 is used to monitor the position and orientation of the person. Button to set off passive buzzer and SOS message manually.
+
